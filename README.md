@@ -21,7 +21,7 @@ This C++ program converts a given string into a unique 8-digit hexadecimal hash 
    - Applies XOR (`^`) with the ASCII value of the character.
 3. Converts the final hash value into an 8-digit hexadecimal string using `stringstream`.
 
-> Note: This is not a cryptographic hash and is not intended for secure applications.
+> Note: This is not a cryptographic hash and is not intended for secure applications. It's smiply for education purpose.
 
 ---
 
